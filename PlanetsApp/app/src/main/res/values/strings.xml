@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Planets App</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="weight_hint">Enter your weight</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="earth_description">Earth is a great planet. It\'s the home of the human race and it is very green with water.</string>
+    <string name="mars_description">Mars is the red planet. It may or may not have a reactor on it.</string>
+    <string name="mercury">Mercury</string>
+    <string name="venus">Venus</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="saturn">Saturn</string>
+    <string name="uranus">Uranus</string>
+    <string name="neptune">Neptune</string>
+    <string name="pluto">Pluto</string>
+    <string name="mercury_description">Mercury is a planet in the solar system. It is a really great place to visit. I love taking photos there.</string>
+    <string name="venus_description">Venus is a planet in the solar system. It is a really great place to visit. I love taking photos there.</string>
+    <string name="jupiter_description">Jupiter is a planet in the solar system. It is a really great place to visit. I love taking photos there.</string>
+    <string name="saturn_description">Saturn is a planet in the solar system. It is a really great place to visit. I love taking photos there.</string>
+    <string name="uranus_description">Uranus is a planet in the solar system. It is a really great place to visit. I love taking photos there.</string>
+    <string name="neptune_description">Neptune is a planet in the solar system. It is a really great place to visit. I love taking photos there.</string>
+    <string name="pluto_description">Pluto is a planet in the solar system. It is a really great place to visit. I love taking photos there.</string>
+</resources>

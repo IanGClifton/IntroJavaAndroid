@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Simple Project</string>
+    <string name="my_string">My Simple Project</string>
+    <string name="pet_name">Pet Name</string>
+    <string name="pet_age">Pet Age in Years</string>
+    <string name="pet_name_hint">Name such as Fido</string>
+    <string name="save">Save</string>
+
+    <string name="error_no_pet_name">You must set a pet name</string>
+    <string name="error_invalid_age">Invalid input for age: </string>
+    <string name="pet_output">%1$s is %2$s</string>
+
+    <string name="young">young</string>
+    <string name="typical_age">a typical age</string>
+    <string name="old">old</string>
+    <string name="ancient">ancient</string>
+</resources>
